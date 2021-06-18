@@ -11,6 +11,7 @@ const routes = [
         name: 'index',
         meta: { title: "模板库", index: 1 },
         component: index
+        
     },
     {
         path: '/mine',

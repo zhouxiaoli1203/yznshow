@@ -1367,11 +1367,11 @@
   </div>
 </template>
 <script>
+import Leaflet from "../components/leaflet";
 import moment from "moment";
 import { Toast } from "vant";
 import { Dialog } from "vant";
 import addCourse from "./addCourse";
-import Leaflet from "../components/leaflet";
 import Group from "../components/group";
 export default {
   name: "stepOne",

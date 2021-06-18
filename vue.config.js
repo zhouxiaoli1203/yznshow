@@ -29,7 +29,7 @@ module.exports = {
     // webpack-dev-server 相关配置
     devServer: {
         // 本地端口
-        port: 9090,
+        port: 8080,
         // 代理
         proxy: '',
         // eslint-loader警告配置
